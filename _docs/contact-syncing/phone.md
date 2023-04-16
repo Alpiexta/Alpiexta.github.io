@@ -18,35 +18,4 @@ To sync your contacts:
 ![](//placehold.it/800x600)
 
 <embed 
-       type="text/html" 
-       src="/images/boken/Bokeh Plot.html"
-       width="1100"
-       height="600"
-       >
-</embed>
-
-
-
-<embed 
-       type="text/html" 
-       src="/images/boken/render.html"
-       width="1100"
-       height="600"
-       >
-</embed>
-<embed 
-       type="text/html" 
-       src="/images/boken/map_hooray2.html"
-       width="1100"
-       height="600"
-       >
-</embed>
-
-<embed 
-       type="text/html" 
-       src="/images/boken/file1.html"
-       width="1100"
-       height="600"
-       >
-</embed>
 
