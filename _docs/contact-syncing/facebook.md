@@ -14,4 +14,3 @@ To sync your contacts:
 2. Select the **Connect Facebook** button
 3. Authorise ChatApp
 
-![](https://raw.githubusercontent.com/chen-si-tong/chen-si-tong.github.io/main/images/screenshoot1.png)
