@@ -13,7 +13,6 @@ When we got the dataset of fire incidents in San Francisco, the second things th
        height="600"
        >    
   
- 
 The red dots are the data that we put the all the fire incidents from 2003-01-01 to 2017-12-31 into the map and markers refers to cluster the points. We use different colors to distinguish different clusters of points, dividing San Francisco into **THREE** parts. We find that the number of fire incidents in the northeast part of the city is much higher than in other parts of the city, because the number of the blue markers with flag is more than the number of others.
 
 Now let’s focus on the northeast part of the city to find out other things. Besides the spatial distribution, we also want to find that the tendency that as time changes, whether there is any change or pattern in the clustering of fire incidents, i.e., the areas where fires are most concentrated.
