@@ -8,7 +8,7 @@ In this chapter, we continue to focus on the northeast part of San Francisco, as
  
 <embed 
        type="text/html" 
-       src="/images/year.html"
+       src="/images/month_render.html"
        width="800"
        height="600"
        >    
