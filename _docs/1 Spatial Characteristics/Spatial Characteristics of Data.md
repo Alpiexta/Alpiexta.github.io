@@ -4,7 +4,7 @@ category: 1 Spatial Characteristics
 order: 1
 ---
 
-When we got the dataset of fire incidents in San Francisco, the second things that came to our mind are that there are a number of factories and companies in San Francisco, and that as the famous tourist city, San Francisco has a large number of native residents as well as a large number of tourists. It indicates that there are many fire incidents in San Francisco. We want to figure out that the spatial distribution of fire incidents in San Francisco to find the place where the number of fire incidents happened. This map shows the spatial distribution of fire incidents.
+When we got the dataset of fire incidents in San Francisco, the things that came to our mind are that there are a number of factories and companies in San Francisco, and that as the famous tourist city, San Francisco has a large number of native residents as well as a large number of tourists. It indicates that there are many fire incidents in San Francisco. We want to figure out that the spatial distribution of fire incidents in San Francisco to find the place where the number of fire incidents happened. This map shows the spatial distribution of fire incidents.
 
 <embed 
        type="text/html" 

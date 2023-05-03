@@ -67,6 +67,6 @@ If confidence is not equal to 1,we make confidence lager than 0.7, we will draw 
        height="600"
        >    
 
-Until now I think we can conclude somethings. Watch out the appliances in the kitchen!! When you do not use them, you had better to plug out. 
+Until now I think we can conclude something. Watch out the appliances in the kitchen!!! When you do not use them, you had better to plug out. 
 If you don't do this, there is a high probability that kitchen appliances will overcharge and overheat, leading to a fire outbreak without people's awareness.
 

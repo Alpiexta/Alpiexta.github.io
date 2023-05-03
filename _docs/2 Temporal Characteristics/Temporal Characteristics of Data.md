@@ -18,6 +18,7 @@ In this picture, we can find that there are the largest fire incidents from 2007
 This is the good news! Indeed, The increases of the amount of firefighters lead to an active influence on decreasing the fire incidents.
 
 The following picture shows that the amount of the fire incident in different months. 
+
 <embed 
        type="text/html" 
        src="/images/month_render.html"
