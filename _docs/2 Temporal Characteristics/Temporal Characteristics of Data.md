@@ -7,7 +7,7 @@ order: 1
 In this chapter, we continue to focus on the northeast part of San Francisco, as it is the area with the highest occurrence of fire incidents. We are curious about the temporal patterns of the fire incidents in such a high frequency of fire events, such as changes in fire incidents over the years and months. We hope to identify patterns by analyzing the temporal aspect of the fire incidents. The following picture shows that the amount of the fire incidents in different years (from 2003 to 2017). 
 <embed 
        type="text/html" 
-       src="/images/tyear_render.html"
+       src="/images/year_render.html"
        width="800"
        height="600"
        >    
