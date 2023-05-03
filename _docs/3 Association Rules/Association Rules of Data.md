@@ -8,7 +8,7 @@ The aim of this part is to explore the association rules about Unintentional, wh
 
 <embed 
        type="text/html" 
-       src="/images/wordcloud.png"
+       src="/images/wordcloud1.png"
        width="800"
        height="600"
        >    
