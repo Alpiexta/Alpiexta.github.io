@@ -1,5 +1,5 @@
 ---
-title: Spatial Characteristics of Fire Incidents
+title: Spatial Characteristics of Data
 category: 1 Spatial Characteristics
 order: 1
 ---

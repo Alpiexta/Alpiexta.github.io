@@ -1,5 +1,5 @@
 ---
-title: Association Rules of ‘Unintentional’
+title: Association Rules of Data
 category: 3 Association Rules
 order: 1
 ---

@@ -1,5 +1,5 @@
 ---
-title: Temporal Characteristics of Fire Incidents
+title: Temporal Characteristics of Data
 category: 2 Temporal Characteristics
 order: 1
 ---

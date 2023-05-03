@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Social Data Analysis And Visualization
+title: 02806
 url: "https://chen-si-tong.github.io/"
 baseurl:
 google_analytics_key:
@@ -15,7 +15,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Social Data Analysis And Visualization
+  name: 02806
   links:
     - https://chen-si-tong.github.io/
 
