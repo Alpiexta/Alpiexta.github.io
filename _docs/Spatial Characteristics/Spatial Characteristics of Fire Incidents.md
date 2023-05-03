@@ -1,6 +1,6 @@
 ---
-title: Spatial Characteristics 0f Fire Incidents
-category: Contact Syncing
+title: Spatial Characteristics of Fire Incidents
+category: Spatial Characteristics
 order: 1
 ---
 
