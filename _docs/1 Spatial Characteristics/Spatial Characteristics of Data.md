@@ -35,5 +35,3 @@ In conclusion we predict that the icon will move toward bottom left in the map, 
 
 We have gained some spatial information about the occurrence of fire incidents. What does the temporal information look like?
 
-> Signing up with Facebook automatically starts syncing contacts.
-> this is a 
