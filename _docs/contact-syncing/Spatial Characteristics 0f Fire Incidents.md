@@ -9,8 +9,8 @@ When we got the dataset of fire incidents in San Francisco, the second things th
 <embed 
        type="text/html" 
        src="/images/k-means_map.html"
-       width="800"
-       height="600"
+       width="1200"
+       height="900"
        >    
   
  
@@ -19,8 +19,13 @@ The red dots are the data that we put the all the fire incidents from 2003-01-01
 Now let’s focus on the northeast part of the city to find out other things. Besides the spatial distribution, we also want to find that the tendency that as time changes, whether there is any change or pattern in the clustering of fire incidents, i.e., the areas where fires are most concentrated.
 
 In the northeast part of the city, we pick up one of markers randomly. ( blue icon with flag in the bottom left corner, when you put the mouse on it, it will shows the text ‘Centroids 1’)
-
-<iframe src="/images/two_lines_chart.html" width="100%" height="500"></iframe>
+<embed 
+       type="text/html" 
+       src="/images/two_lines_chart.html"
+       width="1200"
+       height="900"
+       >    
+<iframe src="/images/two_lines_chart.html" width="150%" height="500"></iframe>
 
 The two line chart based on the blue icon that we pick up record the changes of latitude and longitude from 2013 to 2017 respectively. We can find that the tendency of latitude toward to the low latitude. It shows that this icon will be shifted downwards next time, and that the tendency of longitude is little complexity that longitude toward the low longitude firstly and then go the high longitude. It shows that this icon will be shifted leftwards in the map next time. 
 
