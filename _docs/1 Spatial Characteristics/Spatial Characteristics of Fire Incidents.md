@@ -1,6 +1,6 @@
 ---
 title: Spatial Characteristics of Fire Incidents
-category: Spatial Characteristics
+category: 1 Spatial Characteristics
 order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Association Rules of ‘Unintentional’
-category: Association Rules
+category: 3 Association Rules
 order: 1
 ---
 
