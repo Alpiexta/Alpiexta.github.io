@@ -25,6 +25,6 @@ title: San Francisco - Fire Incidents Data Analysis
    
 **Association Rules:**
 
-* When you do not use the appliances in the kitchen, you had better to plug out
+* When you do not use the appliances in the kitchen, you had better to plug off
 
 
