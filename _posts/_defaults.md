@@ -1,5 +1,5 @@
 ---
-title: Jupyter Notebook
+title: 
 type: major
 ---
 
