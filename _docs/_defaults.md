@@ -1,5 +1,5 @@
 ---
-title:
-category:
+title: Jupyter Notebook
+category: 
 order: 1
 ---
