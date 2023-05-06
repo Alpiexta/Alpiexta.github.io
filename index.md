@@ -7,7 +7,7 @@ title: San Francisco - Fire Incidents Data Analysis
 * After cleaning, there is 25924 rows × 13 columns (year from 2003-2017)
 
 ### Aim of The Project
-* Find patterns S
+* Find patterns
 * Provide viable solutions
 
 ### The Conclusion of Each Part

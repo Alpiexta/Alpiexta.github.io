@@ -1,6 +1,6 @@
 ---
 title: Motivation
-type: 
+type: major
 ---
 This dataset is the fire incidents of San Francisco. This dataset is almost 221.46M, has 624659 rows, and 64 variables, and has geo-data. it has It records the fire incidents from 1/1/2003 to 4/11/2023.
 

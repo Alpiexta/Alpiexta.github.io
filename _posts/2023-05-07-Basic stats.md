@@ -1,6 +1,6 @@
 ---
 title: Basic stats
-type: 
+type: minor
 ---
 
 > Data Cleaning 
