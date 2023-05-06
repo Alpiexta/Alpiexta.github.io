@@ -1,5 +1,5 @@
 ---
-title: Basic stats
+title: Basic Stats
 type: minor
 ---
 
