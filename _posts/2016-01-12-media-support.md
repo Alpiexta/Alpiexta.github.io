@@ -1,5 +1,5 @@
 ---
-title: Basic Stats
+title: Media support
 type: major
 ---
 
