@@ -18,7 +18,7 @@ Because some of data in the fire incidents dataset are NAN, we remove them from 
 
 After cleaning data, we find that we can not use the data directly because the numbers were mixed up with the instructions in the same cell. We extract serial number, extract the date of year/month/hour, and split the longitudes and latitude.
 
-<embed S
+<embed 
        type="text/html" 
        src="images/Jupyter Notebook/Data preprocessing.html"
        width="800"
