@@ -58,7 +58,7 @@ The pictures show that there are many points when confidence is equal to 1, whic
 
 From the table, the period between 4am and 8am in the morning is the most prone time for ‘Unintentional’ fires to occur, and most of the ‘Unintentional’ take place on the cooking area.
 
-If confidence is not equal to 1,we make confidence lager than 0.7, we will draw the association rules network graph and see the more association rules than before.
+If confidence is not equal to 1,we make confidence lager than 0.7, we will draw the association rules network graph and see the more association rules than before.S
 
 <embed 
        type="text/html" 
