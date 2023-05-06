@@ -9,7 +9,7 @@ Because some of data in the fire incidents dataset are NAN, we remove them from 
 
 <embed 
        type="text/html" 
-       src="images/JupyterNotebook/DataCleaning .html"
+       src="images/JupyterNotebook/fire.html"
        width="800"
        height="600"
        >   
