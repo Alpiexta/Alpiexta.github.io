@@ -19,7 +19,7 @@ In this part, we just use broken line graph showing the tendency directly.
 <embed 
        type="text/html" 
        src="/images/JupyterNotebook/TheFirstPart.html"
-       width="1000"
+       width="800"
        height="600"
        type= "application/x-ipynb+json"
        >   
