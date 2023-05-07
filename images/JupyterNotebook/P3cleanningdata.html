@@ -3,7 +3,7 @@
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>backup</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>Untitled1</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 
 
@@ -15103,12 +15103,12 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
     </script>
     <!-- End of mathjax configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
-<div id="cell-id=6da66840" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div id="cell-id=eb7ed715" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[35]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[20]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># foucus on Unintentional </span>
@@ -15120,11 +15120,13 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <span class="n">df6</span><span class="p">[</span><span class="s1">&#39;disc_data_hour&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">discretizer</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
 
 <span class="c1"># prepare data--- pick up the attributes </span>
-<span class="n">df7</span> <span class="o">=</span> <span class="n">df6</span><span class="p">[[</span><span class="s2">&quot;Area of Fire Origin_number&quot;</span><span class="p">,</span><span class="s1">&#39;Primary Situation_number&#39;</span><span class="p">,</span><span class="s1">&#39;Action Taken Primary_number&#39;</span><span class="p">,</span><span class="s1">&#39;Item First Ignited_number&#39;</span><span class="p">,</span>
+<span class="n">df7</span> <span class="o">=</span> <span class="n">df6</span><span class="p">[[</span><span class="s2">&quot;Area of Fire Origin_number&quot;</span><span class="p">,</span><span class="s1">&#39;Primary Situation_number&#39;</span><span class="p">,</span>
+           <span class="s1">&#39;Action Taken Primary_number&#39;</span><span class="p">,</span><span class="s1">&#39;Item First Ignited_number&#39;</span><span class="p">,</span>
      <span class="s1">&#39;Ignition Cause_number&#39;</span><span class="p">,</span><span class="s1">&#39;disc_data_hour&#39;</span><span class="p">,]]</span>
 
 <span class="c1"># prepare data--- transfer the type</span>
-<span class="n">title</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;Area of Fire Origin_number&quot;</span><span class="p">,</span><span class="s1">&#39;Primary Situation_number&#39;</span><span class="p">,</span><span class="s1">&#39;Action Taken Primary_number&#39;</span><span class="p">,</span><span class="s1">&#39;Item First Ignited_number&#39;</span><span class="p">,</span>
+<span class="n">title</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;Area of Fire Origin_number&quot;</span><span class="p">,</span><span class="s1">&#39;Primary Situation_number&#39;</span><span class="p">,</span>
+         <span class="s1">&#39;Action Taken Primary_number&#39;</span><span class="p">,</span><span class="s1">&#39;Item First Ignited_number&#39;</span><span class="p">,</span>
      <span class="s1">&#39;Ignition Cause_number&#39;</span><span class="p">,</span><span class="s1">&#39;disc_data_hour&#39;</span><span class="p">]</span>
 <span class="n">title1</span><span class="o">=</span><span class="p">[</span><span class="s2">&quot;AFO&quot;</span><span class="p">,</span><span class="s1">&#39;PS&#39;</span><span class="p">,</span><span class="s1">&#39;ATP&#39;</span><span class="p">,</span><span class="s1">&#39;IFI&#39;</span><span class="p">,</span><span class="s1">&#39;IC&#39;</span><span class="p">,</span><span class="s1">&#39;Hour&#39;</span><span class="p">]</span>
 
@@ -15143,12 +15145,12 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 
-</div><div id="cell-id=8aae2564" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+</div><div id="cell-id=933ae6ec" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[36]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[21]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># apriori</span>
@@ -15164,12 +15166,12 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 
-</div><div id="cell-id=6f2b8ba3" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+</div><div id="cell-id=1d1849fb" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[37]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[22]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">transactions</span> <span class="o">=</span> <span class="p">[]</span>
@@ -15182,12 +15184,12 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 
-</div><div id="cell-id=1e43bc3e" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+</div><div id="cell-id=6a9db2ae" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[38]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[23]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">mlxtend.preprocessing</span> <span class="kn">import</span> <span class="n">TransactionEncoder</span>
@@ -15206,17 +15208,33 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 
-</div><div id="cell-id=53784a5d" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+</div><div id="cell-id=7739641d" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[39]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[24]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">apyori</span> <span class="kn">import</span> <span class="n">apriori</span>
 <span class="n">rules1</span> <span class="o">=</span> <span class="n">apriori</span><span class="p">(</span><span class="n">transactions</span><span class="p">,</span> <span class="n">min_support</span><span class="o">=</span><span class="mf">0.2</span><span class="p">,</span> <span class="n">min_confidence</span><span class="o">=</span><span class="mf">0.6</span><span class="p">)</span>
 <span class="n">results</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">rules1</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div><div id="cell-id=edaac327" class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span> 
 </pre></div>
 
      </div>
