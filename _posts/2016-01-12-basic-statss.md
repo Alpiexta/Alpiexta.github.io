@@ -9,7 +9,7 @@ Because some of data in the fire incidents dataset are NAN, we remove them from 
 
 <embed 
        type="text/html" 
-       src="images/JupyterNotebook/fire.html"
+       src="/images/JupyterNotebook/DataCleaning.html"
        width="800"
        height="600"
        >   
@@ -20,7 +20,7 @@ After cleaning data, we find that we can not use the data directly because the n
 
 <embed 
        type="text/html" 
-       src="images/JupyterNotebook/Datapreprocessing.html"
+       src="/images/JupyterNotebook/Datapreprocessing.html"
        width="800"
        height="600"
        >   
@@ -33,7 +33,7 @@ We also ignore because according to our aim, we just analyze the place in northe
 
 <embed 
        type="text/html" 
-       src="images/JupyterNotebook/Datasetstats.html"
+       src="/images/JupyterNotebook/Datasetstats.html"
        width="800"
        height="600"
        >   
