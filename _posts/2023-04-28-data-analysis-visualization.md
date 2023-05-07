@@ -21,6 +21,7 @@ In this part, we just use broken line graph showing the tendency directly.
        src="/images/JupyterNotebook/TheFirstPart.html"
        width="1000"
        height="600"
+       type= "application/x-ipynb+json"
        >   
 
 > The Second Part - Exploring Temporal Characteristics of Data
