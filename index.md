@@ -3,28 +3,34 @@ title: San Francisco - Fire Incidents Data Analysis
 ---
 
 ### Introduction of The Dataset
-* Fire incidcents dataset from the [offical website](https://datasf.org/opendata/)
-* After cleaning, there is 25924 rows × 13 columns (year from 2003-2017)
+* Fire incidents dataset from the [offical website](https://datasf.org/opendata/) ; after cleaning, there is 27924 rows × 13 columns (year from 2003-2019)
+* Fire inspections from the [offical website](https://datasf.org/opendata/) ; 85 kB, 347k rows, 64 variables 
+* Awarded Degrees dataset directly from the USA's data api; 10 kB, 49k rows, 4 variables
+* Median Earnings dataset directly from the USA's data api; 28 kB, 57k rows, 6 variables.
 
 ### Aim of The Project
-* Find patterns
-* Provide viable solutions
+* Identify issues.
+* Find patterns.
+* Back up our findings with social data - demographics.
+* Provide viable solutions.
+* Back up our finding with data.
 
 ### The Conclusion of Each Part
-**Spatial Characteristics:**
-
-* The number of fire incidents in the northeast part of the city is higher than others
-* One of cluster centers will move toward bottom left on map in 2018
-
 **Temporal Characteristics:**
 
-* The amount of fire incidents decreases sharply in 2014 because [SP took some measures to contain fire incidents]((https://www.cbsnews.com/sanfrancisco/news/Snew-sf-budget-allows-for-hundreds-more-police-officers-firefighters/))
-* people are much more active at around 8pm on the weekend especially Sunday
+* The number of fire incidents in the center part of the city is higher than others.
+* Identifying pattern throughout the years.
+* Apply data for the measures the state implemented to reduce the cases (e.g. number of inspections).
+
+**Spatial Characteristics - Demographics :**
+
+* Median income changes and how this affects the final outcome.
+* Educational level of citizens and how this affects the final outcome.
 * The fraction of‘Unintentional’(Ignition Cause) is the largest.
-* the period that from December to January is specal
+
    
 **Association Rules:**
 
-* When you do not use the appliances in the kitchen, you had better to plug off
-
+* Statistical analysis in association rules.
+* Proving that the most common and possible way to get a fire is by kitchen appliances.
 
