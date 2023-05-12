@@ -1,6 +1,6 @@
 ---
 title: Temporal Characteristics of Data
-category: 2 Temporal Characteristics
+category: 1 Temporal Characteristics
 order: 1
 ---
 
