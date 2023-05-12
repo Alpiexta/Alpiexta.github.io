@@ -2,8 +2,8 @@
 title: Motivation
 type: major
 ---
-This dataset is the fire incidents of San Francisco. This dataset is almost 221.46M, has 624659 rows, and 64 variables, and has geo-data. it has It records the fire incidents from 1/1/2003 to 4/11/2023.
+Studying fire incidents in San Francisco is particularly exciting because the city's unique topography and climate contribute to specific fire risks. For example, the city's hilly terrain and narrow streets can hinder firefighters' access to fire sites, making it challenging to put out fires quickly. San Francisco is also prone to seasonal wildfires, which pose a severe threat to both urban and rural areas.
 
-As we know, fire incidents present a significant challenge to the city’s safety. Fires are so normal in our daily life and can cause tremendous damage to property and disrupt the lives of residents. If we can find right solutions by analyzing the datasets about the fire incidents that, we can reduce the likelihood and severity of fire incidents. So, we chose the fire incidentSs of San Francisco that is the representative city all over the world.
+By analyzing data from past fire incidents, we can identify high-risk areas in the city and prioritize prevention efforts in those locations. We can also explore the root causes of fire incidents, such as building code violations or electrical system failures, to prevent similar incidents in the future.
 
-As a result, we hope that people who read our project can get some practicable tips and follow them to avoid accidents.
+Preventing fire incidents is not only a matter of saving lives and property, but also an environmental concern. Fires produce toxic smoke and contribute to air pollution, which can have long-term health consequences for residents. Additionally, firefighting requires significant resources such as water and energy, which can be scarce in drought-prone areas like San Francisco. By preventing fire incidents, we can reduce the environmental impact of firefighting and create a more sustainable city.
