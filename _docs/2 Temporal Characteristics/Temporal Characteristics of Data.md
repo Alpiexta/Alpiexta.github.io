@@ -1,6 +1,6 @@
 ---
 title: Spatial Characteristics of Data and Demographics
-category: 2 Spatial Characteristics
+category: 3 Spatial Characteristics
 order: 1
 ---
 
