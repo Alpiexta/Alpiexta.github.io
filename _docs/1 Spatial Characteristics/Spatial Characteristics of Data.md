@@ -1,6 +1,6 @@
 ---
 title: Spatial Characteristics of Data
-category: 1 Spatial Characteristics
+category: 2 Spatial Characteristics
 order: 1
 ---
 
