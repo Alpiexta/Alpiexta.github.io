@@ -1,8 +1,13 @@
 ---
 title: San Francisco - Fire Incidents Data Analysis
 ---
+### Introduction
+* This project aims to determine whether fire incidents have increased in the city of San Francisco. If a difference does exist, we hope to uncover possible explanations for it. Moreover, different socialeconomic factors are also going to be investigated to se if there is any kind of correlation between incidents and these factors.
+* The following video summarizes the main idea behind our project:
 
-### Introduction of The Dataset
+{{< youtube CoNs8yF8Dlw >}}
+
+### The Datasets
 * Fire incidents dataset from the [offical website](https://datasf.org/opendata/) ; after cleaning, there is 27924 rows × 13 columns (year from 2003-2019)
 * Fire inspections from the [offical website](https://datasf.org/opendata/) ; 85 kB, 347k rows, 64 variables 
 * Awarded Degrees dataset directly from the USA's data api; 10 kB, 49k rows, 4 variables
